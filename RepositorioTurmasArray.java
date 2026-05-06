@@ -1,3 +1,5 @@
+package PacoteTurma;
+
 public class RepositorioTurmasArray implements RepositorioTurmas {
     private Turma[] turmas;
     private int proxima;
