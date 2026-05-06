@@ -1,3 +1,4 @@
+package PacoteTurma;
 public class Turma {
     private int idTurma;
     private Curso curso;
