@@ -1,3 +1,5 @@
+package PacoteTurma;
+
 public interface RepositorioTurmas {
     void inserir(Turma turma);
     Turma buscar(int idTurma);
